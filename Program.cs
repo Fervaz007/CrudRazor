@@ -1,4 +1,11 @@
+using Microsoft.EntityFrameworkCore;
+using TestCrud.Datos;
+
 var builder = WebApplication.CreateBuilder(args);
+
+//Conexion a Sql local
+builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(
+    builder.Configuration.GetConnectionString("ConectionSqlLocalDB")));
 
 // Add services to the container.
 builder.Services.AddRazorPages();

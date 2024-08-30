@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using TestCrud.Modelos;
 
 namespace TestCrud.Datos
 {
@@ -9,5 +10,7 @@ namespace TestCrud.Datos
         }
 
         //Aqui colocar los modelos
+
+        public DbSet<Producto> Productos { get; set; }
     }
 }

@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\briand.vazquez\\Documents\\Proyectos net\\TestCrud\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7E342B67-328D-4C56-AD53-E5729BC80C4F}|TestCrud.csproj|c:\\users\\briand.vazquez\\documents\\proyectos net\\testcrud\\migrations\\20240830001410_migracioninicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E342B67-328D-4C56-AD53-E5729BC80C4F}|TestCrud.csproj|solutionrelative:migrations\\20240830001410_migracioninicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7E342B67-328D-4C56-AD53-E5729BC80C4F}|TestCrud.csproj|c:\\users\\briand.vazquez\\documents\\proyectos net\\testcrud\\datos\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E342B67-328D-4C56-AD53-E5729BC80C4F}|TestCrud.csproj|solutionrelative:datos\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E342B67-328D-4C56-AD53-E5729BC80C4F}|TestCrud.csproj|c:\\users\\briand.vazquez\\documents\\proyectos net\\testcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E342B67-328D-4C56-AD53-E5729BC80C4F}|TestCrud.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E342B67-328D-4C56-AD53-E5729BC80C4F}|TestCrud.csproj|c:\\users\\briand.vazquez\\documents\\proyectos net\\testcrud\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E342B67-328D-4C56-AD53-E5729BC80C4F}|TestCrud.csproj|solutionrelative:modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20240830001410_MigracionInicial.cs",
+              "DocumentMoniker": "C:\\Users\\briand.vazquez\\Documents\\Proyectos net\\TestCrud\\Migrations\\20240830001410_MigracionInicial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240830001410_MigracionInicial.cs",
+              "ToolTip": "C:\\Users\\briand.vazquez\\Documents\\Proyectos net\\TestCrud\\Migrations\\20240830001410_MigracionInicial.cs",
+              "RelativeToolTip": "Migrations\\20240830001410_MigracionInicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T00:14:11.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\briand.vazquez\\Documents\\Proyectos net\\TestCrud\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\briand.vazquez\\Documents\\Proyectos net\\TestCrud\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T00:03:17.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\briand.vazquez\\Documents\\Proyectos net\\TestCrud\\Modelos\\Producto.cs",
+              "RelativeDocumentMoniker": "Modelos\\Producto.cs",
+              "ToolTip": "C:\\Users\\briand.vazquez\\Documents\\Proyectos net\\TestCrud\\Modelos\\Producto.cs",
+              "RelativeToolTip": "Modelos\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T23:55:30.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\briand.vazquez\\Documents\\Proyectos net\\TestCrud\\Datos\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Datos\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\briand.vazquez\\Documents\\Proyectos net\\TestCrud\\Datos\\AppDbContext.cs",
               "RelativeToolTip": "Datos\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T20:01:27.943Z",
               "EditorCaption": ""
